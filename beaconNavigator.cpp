@@ -9,7 +9,7 @@
 const char* ssid = "Beacon Navigator";
 const char* password = "Beacon2025";
 const char* beaconBLEServerName = "BeaconNavigator.999";
-const char* serverAddressIP = "http://10.0.80.13";  // Endereço do servidor
+const char* serverAddressIP = "http://192.168.137.1";  // Endereço do servidor
 const char* serverAddressDir = ":5000/api/informes";  // Endereço da API
 
 // UUIDs do BLE
